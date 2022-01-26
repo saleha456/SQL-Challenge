@@ -1,4 +1,4 @@
-# SQLEmployee Analysis
+# SQL Employee Analysis
 
 ### EmployeeSQL
 
