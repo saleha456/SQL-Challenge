@@ -1,4 +1,4 @@
-# SQL-Challenge
+# SQLEmployee Analysis
 
 ### EmployeeSQL
 
